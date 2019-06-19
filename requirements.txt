@@ -1,0 +1,15 @@
+psycopg2
+logging
+telegram
+requests
+glob 
+os
+pyowm
+configparser
+json
+usb.core, usb.util, usb.control
+crc16
+sys
+collections
+sycopg2
+datetime 
