@@ -1,0 +1,11 @@
+[KEYS]
+bot_api =
+[ADMIN]
+id = 
+[PASSDB]
+pass = 
+[APIGRAFANA]
+auth_token =
+[APIWEATHER]
+api_owm =
+
