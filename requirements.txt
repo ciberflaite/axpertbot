@@ -7,7 +7,7 @@ os
 pyowm
 configparser
 json
-usb.core, usb.util, usb.control
+usb.core
 crc16
 sys
 collections
