@@ -1,5 +1,5 @@
 # Marisol
-## TelegramBot for AXPERT/etc solar inverter monitoring on a raspberry pi B3+
+## TelegramBot for AXPERT/etc solar inverter monitoring on a raspberry pi 
 
 This scripts communicates a raspberry pi3B+ with an AXPERT solar inverter ,stores in an a postgresql database and displays it via grafana web interface and telegram bot .
 
